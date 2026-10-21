@@ -6,7 +6,7 @@ Before that I did a research traineeship at IRLab, University of Amsterdam, work
 
 ## Projects
 
-- [goodspeed-knowledge-base](https://github.com/TeaTisaj/goodspeed-knowledge-base): a document Q&A app with hybrid retrieval, row-level security in Postgres, and an eval suite. Next.js, NestJS, Supabase.
+- [rag-knowledge-base](https://github.com/TeaTisaj/rag-knowledge-base): a document Q&A app with hybrid retrieval, row-level security in Postgres, and an eval suite. Next.js, NestJS, Supabase.
 - [breeding-smarter](https://github.com/TeaTisaj/breeding-smarter): explainable mate matching for genetic diversity in dogs, with a synthetic pedigree dataset. Python.
 
 ## Currently
